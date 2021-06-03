@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>More victoryes obtained in Ireland by the right honourable the Lord Inchiquine, lord president of Munster the relations in a letter under his lordships owne hand, dircted to Major Generall Jephson, and honourable member of the House of Commons : together with another letter to the said honourable member, dated August 14, 1647.</title>
+            <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24609</idno><idno type="EEBO-CITATION">31355479</idno>
+  <idno type="VID">205867</idno>
+  <idno type="EEBO-PROQUEST">2240891283</idno>
+  
+            <idno type="STC">Wing I134A</idno>
+            <idno type="OCLC">31355479</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205867)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1740:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>More victoryes obtained in Ireland by the right honourable the Lord Inchiquine, lord president of Munster the relations in a letter under his lordships owne hand, dircted to Major Generall Jephson, and honourable member of the House of Commons : together with another letter to the said honourable member, dated August 14, 1647.</title>
+                  <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674.</term>
+               <term type="personal_name">Jephson, William, 1615?-1659?</term>
+               <term type="geographic_name">Ireland --  History --  1625-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205867:1"/>
+            <pb facs="tcp:205867:1"/>
+            <p>MORE VICTORYES Obtained in IRELAND By the Right Honourable the LORD <hi>Inchiquine,</hi> LORD PRESIDENT of <hi>MƲNSTER</hi>
+            </p>
+            <p>The Relations in a LETTER under his Lordships owne hand, directed to Major Generall <hi>Jephson,</hi> an Honourable Member of the House of <hi>Commons.</hi>
+            </p>
+            <p>Together with another Letter to the said Honourable Member, dated <hi>August</hi> 14. 1647.</p>
+            <p>
+               <hi>London,</hi> printed for <hi>Robert Bostock</hi> at the <hi>Kings-Head</hi> in <hi>Pauls</hi> Church-Yard. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:205867:2"/>
+            <pb n="1" facs="tcp:205867:2"/>
+            <head>More VICTORIES obtained in <hi>Jreland,</hi> by the Right Honourable the LORD <hi>INCSIQUINE</hi> Lord President of <hi>MUNSTER.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He 3d. of <hi>Iuly</hi> I came from <hi>Corke,</hi> and was faine to stay 4 or 5, dayes at <hi>Moyallo</hi> before the For<g ref="char:EOLhyphen"/>ces and Artillery were al come up, then I mar<g ref="char:EOLhyphen"/>ched directly towards <hi>Rathkele</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Lymerick;</hi> and sent out 2. partyes in the night from the Mountaines foote on this side <hi>Ballyhea,</hi> the one under the command of Leiftenant Col. <hi>Cooke,</hi> with 400. Foote, and Major <hi>Frenchard</hi> with about 200. Horse; the other under the command of Leift. Colo. <hi>Knight</hi> 600. Foote, and under Major <hi>Purdon</hi> 350. Horse: unto the first I gave order to go close by <hi>Sleuelober,</hi> towards the <hi>Shanon,</hi> and drive all they could light upon to <hi>Rathkell</hi> and the other to march by the River <hi>Maige</hi> (being on the o<g ref="char:EOLhyphen"/>ther hand) towards the <hi>Shanon,</hi> and drive all they could get to the same place, where I intended the next day to mee<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them with the rest of the body, but the way being ill, I could not get up with the Ordinance, so as I was faine to lye that night at <hi>Ballingary</hi> 3. Mile short of them; where I found abundance of Plunder and Victualls, to the value of 1000 l. at least, and had two Castles delivered up to me, one wherof was very strong, belonging to one <hi>R. Lacy,</hi> the other was a Castle belonging to my Lord of <hi>Corke.</hi> I sent word to the Rendevous where I lay, and sent 200. Horse under Ma<g ref="char:EOLhyphen"/>jor <hi>Ieffords</hi> command, to help those that had been upon the parties, who I knew would be extreame weary, having gone 20 myle before they began to drive, and then spent al<g ref="char:EOLhyphen"/>most the whole day in gathering of cattle, where they could
+<pb n="2" facs="tcp:205867:3"/>spie them. But the Party that went with <hi>Knight</hi> and <hi>P<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>do<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> having gotten 6000. Cowes and Sheepe, which were very troublesome to drive and keep them up together, were sorced to stay 2 Mile from the Rendevous; and it seemes <hi>Purdon</hi> thought himselfe so secure, that he neither appointed Guards or Centry, but let every one do as he pleased, so as my Lord of <hi>Muskery</hi> was in the midst of them with 500. horse, before they perceived any enemy, nor did they then beleive them to be so, till he beganne to doe execution, whereupon Capt. <hi>Fenton</hi> providently tooke a course to preserve Sir <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> an Heire, who with Capt. <hi>Dethick</hi> came away with all the hast they could, and brought me word, that all the party horse and foote were lost, and having told me the place, I instantly marched with all the hast possible I could, to get between the Rebells, and the passe of <hi>Abdare,</hi> which they (as I since heard) were apprehensive of, and therefore made such hast, as that they were gone 2 howers before I could get thither: then I met Major <hi>Iefford,</hi> who was also in pur<g ref="char:EOLhyphen"/>suit of them, but could not overtake them, of him I de<g ref="char:EOLhyphen"/>monded what harther accompt was to be had of the businesse, and found it to be thus. The Rebells fell into our Quarters more then <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n hower before day, and first lighted upon the Dragoneers, who thought they had been friends, till they were better inform'd by their blows, and then the firebrands being the readyest armes, <hi>Trumble</hi> and his men tooke them up, and with them kept off the Horse, that their Riders could not them force upon our men, till they got to their Armes, then the Foot drew up and somely, and so pelted these Horse, though they charged them 4. times, they were still beaten off with loss, which made them turne from them, and fall among our Horsemen, where they tooke Capt. <hi>Cour<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rup</hi> prisoner, and 5. more, flew 2. men, and tooke away about 40. Horse with as many Saddles and Armes, we had but 2. Horsemen and one footman killed, but about forty Horsemen much wounded, among whom was Major <hi>Choppyus</hi> Cornet, who is since dead, and so are 4. or 5. more; I was not a little joy<g ref="char:EOLhyphen"/>ed to finde the businesse no worse, perceiving also that the Rebels lost two Captaines, and two Leiutenants of Horse, and hearing by a Prisoner that they had many wounded, thus
+<pb n="3" facs="tcp:205867:3"/>it pleased God to worke for us, when in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll prebability every man of ours might have bin lost, and without a <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iracle they had beene so (for the most part) if my Lord of <hi>Muskery</hi> had stayed till breake of day; that they might have seene the ad<g ref="char:EOLhyphen"/>vantage they had, which he durst not doe, lest I should get between him and <hi>Adare,</hi> for then I had, had him in a Pound, In this businesse a great part of our prey was lost, but what remained to us of both parties preyes, amounted to 1500. Cowes, and 4000. sheepe, whereof the Souldiers destroyed and imbezled all but 700. Cowes, and 800. sheep at <hi>Rathkell,</hi> we found in the three severall Castles we took, and the hou<g ref="char:EOLhyphen"/>ses in the towne, at least 3000. pounds worth of plunder, which (discernably) no man was five pounds the better for, except two or three Common Souldiers, who found in seve<g ref="char:EOLhyphen"/>rall places three Bagges of mony that amounted in all to a<g ref="char:EOLhyphen"/>bout 100 l. the Wards of these Castles, and foure more neer the Towne, gave up upon summons; one other we took by force, but the men had quarter for their lives, which with their wearing Apparell was the best quarter they had, that gave upon summons, five dayes were spent about this town, and then hearing that the Rebels Army lay within 8. myles of us, we marched towards them, lying the first night at <hi>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dare,</hi> and the next day, as soone as we advanced towards them, they withdrew to the Wall of <hi>Lymericke,</hi> but though wee could not fotce them to fight, wee wreaked our vengeance on the Country, where wee burnt all houses Corne and Hay, insomuch as that I am confident 40000 l. will not Ballance their losse by that meanes, from <hi>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dare</hi> we marched to <hi>Kilpehan,</hi> and thence to <hi>Monaster</hi> an <hi>Enagh,</hi> which your Father sold, from thence to the <hi>Broff,</hi> where my Lord Castle <hi>Connels</hi> Company of about 80. men, well arm'd and provided, were placed two dayes before, who changed their resolution of defending the place upon the first treaty betweene me and their Captaine, who took quarter for life, and wearing apparell, leaving us good store of plunder and 150. Armes in the House, which was almost as many as we had taken in all the other Castles, the same night I lay at the <hi>Broffe,</hi> I sent two Regiments to see what they could do upon a Castle of one <hi>Boxes</hi> within halfe a myle of it, where his son
+<pb n="4" facs="tcp:205867:4"/>was Commander, and denyed to yeeld to me upon such quar<g ref="char:EOLhyphen"/>ter as I had given others, These two Regiments, assaulted the great ditch, which was their Banne fence, and carryed every man a burthen of the thach of houses to the Grate of the Castle, which being fired, and the wind sitting favourab<g ref="char:EOLhyphen"/>ly, they maintained the fire so, as in two houres the people were unable to stay within, and having no other way, began to come out of the Windowes, but our men killed the first that came, the rest fled to the Battlements, where they stayed till our men had made a breach with barres of Iron, and then they comming up to them, some leaped over the top of the Castle, which was very high, but they were all slaine except one, who was saved by meere accident, the next day I sent a party of Horse to <hi>Baggots</hi> Castle, who had taken over night two of our horsemen, with their Horses and Armes, suppos<g ref="char:EOLhyphen"/>ing that they would bee glad to give up my horsemen upon condition I would let him alone, which of necessity I must have done for want of Ammunition, for I had not one graine of Powder left that was serviceable, when the Horse surroun<g ref="char:EOLhyphen"/>ded and summoned him, he desired to speake with me, where<g ref="char:EOLhyphen"/>upon I came thither, whilst the army was marching towards home, in expectation to have the place presently given up, but the Monsier propounded only coming under contribtion, and said he ment not to yeeld (if we did our utmost) upon other tearms, whereat I was troubled, that I was come thither in person, and though I saw the place weak, not able to force it But I spoke big words of sending for the Ordinance instant<g ref="char:EOLhyphen"/>ly, and told him, I would make him purchase his abuse of my expectation at a dear rate, and that I would heare of no further treaty. Whereupon the Gentleman desired some time of con<g ref="char:EOLhyphen"/>sideration, and at length was perswaded to give us our pri<g ref="char:EOLhyphen"/>soners, with their Horses and Armes, and 16. Horses more, whereof 10 were the best in that Country, we got also a 100 l. in mony to be rid of us, and so came away that night into our own Quarters to <hi>Ardskiegh,</hi> and the next day hither to meet with what provision and ammunition was provided for us, which being but 2 l. of Bisquet, and 1 l. of Cheese a man; we are this day marching away to the releife of <hi>Ballagary</hi> and <hi>Castlematresse,</hi> where we left wards, who have been besieged
+<pb n="5" facs="tcp:205867:4"/>these 3. dayes (that I have been out of the County of <hi>Lyme<g ref="char:EOLhyphen"/>rick</hi>) but to morrow I shall with Gods help be with them, and I must indeavour to do now, as <hi>I</hi> did last time, live all the time we are abroad upon the Country, which now I doubt will afford us only Pease and Beans, which we hope will keep us from starving, though we should get nothing else, if it do not, there is no visible means for us to avoyd it, for we have not a bit of provision, nor a penny of mony in our Garrisons, where the Towns relieve the sick men, and the well subsist by their own acquisitions. Wherefore, <hi>I</hi> beseech you Sir, either get us releife that may enable us to live here, or get me leave to come off, and let them give my Command to whom they please. I can contribute Faithfullnesse and Integrity to the preservation of their intrests, but I can work no Miracles.</p>
+            <closer>
+               <dateline>Moyallo <date>27th. <hi>Iuly,</hi> 1647.</date>
+               </dateline>
+               <signed>Your affectionate Servant <hi>INCHIQUINE.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Our want of Carriages is such an impediment to our do<g ref="char:EOLhyphen"/>ing considerable service, that you must not expect we shall effect those things without them, that otherwise would be fezible.</p>
+               <p>
+                  <hi>Ranall</hi> in <hi>Collokittagh</hi> is come with a Regiment of foot, of those that were in <hi>Scotland,</hi> to the assistance of this Ar<g ref="char:EOLhyphen"/>my against us here, who are 9000. Horse and Foote (as my Intelligence assures me) by the accesse of these and the Vo<g ref="char:EOLhyphen"/>lunteers of <hi>Tiperaris Thomand,</hi> and <hi>Kerry.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:205867:5"/>
+            <opener>
+               <salute>SIR;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hese ticklish times give mee small hopes that any thing as yet can bee done in the behalfe of our Forces in <hi>Munster,</hi> where<g ref="char:EOLhyphen"/>fore I very much desire the honour to wait on you over; I believe you will take shippe either at <hi>Bristoll,</hi> or <hi>Minehead.</hi> I shall gladly wait on at either of them. Give me leave to acquaint you what a Member of your House told me; who yester<g ref="char:EOLhyphen"/>day came home from <hi>London:</hi> he bid me be confident that you intended to quit your command in <hi>Ireland,</hi> and that my Lord President is speedily to appeare at <hi>London,</hi> to answer to that Charge which my Lord <hi>Broghill,</hi> and Sir <hi>Arthur Loftus</hi> exhibited against him. I beseech you to deale ingeniously with me in this particular, for I am resolv'd to desert the service if it bee true, and so will many besides. Its a lamentable encouragement for any man to leave his native Country, spend his fortune and hazard his life, when he shall see men, who have done such eminent services thus required. But I trust God will so far manifest his Iustice, as not to suffer the mon<g ref="char:EOLhyphen"/>strous malice of these men to prevaile; pardon I pray the trouble this long peece of impertinency puts you to. I have a long time had a very high esteeme of you, but never could bee so happy to have an occasion to bee knowne by you, unto whom in all things, I shall ap<g ref="char:EOLhyphen"/>peare,</p>
+            <closer>
+               <salute>SIR</salute>
+               <signed>A most humble, and faithfull servant.</signed>
+               <dateline>From my house neare <hi>Exon,</hi>
+                  <date>
+                     <hi>Aug.</hi> 14th 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:205867:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
